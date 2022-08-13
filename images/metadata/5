@@ -1,0 +1,41 @@
+{
+  "name": "#5",
+  "description": "Cash Me Outside",
+  "attributes": [
+    {
+      "trait_type": "background_color",
+      "value": "#4C053E"
+    },
+    {
+      "trait_type": "personality",
+      "value": "bo$$_a$$_btch"
+    },
+    {
+      "trait_type": "gps_location",
+      "value": "alphabet_city"
+    },
+    {
+      "trait_type": "intelligence",
+      "value": 8
+    },
+    {
+      "trait_type": "attitude",
+      "value": 9
+    },
+    {
+      "trait_type": "swagger",
+      "value": 8
+    },
+    {
+      "trait_type": "stamina_increase",
+      "display_type": "boost_percentage",
+      "value": 30
+    },
+    {
+      "trait_type": "flight_height",
+      "display_type": "boost_percentage",
+      "value": 60
+    }
+  ],
+  "image": "https://bafybeianxva4u4dwu7xfw24vj7ignacp5k7j5oueip3ioptpdhpc3alnam.ipfs.nftstorage.link/images/images/5.png"
+}

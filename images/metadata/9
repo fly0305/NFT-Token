@@ -1,0 +1,41 @@
+{
+  "name": "#9",
+  "description": "I’m a Swan IRL",
+  "attributes": [
+    {
+      "trait_type": "background_color",
+      "value": "#476600"
+    },
+    {
+      "trait_type": "personality",
+      "value": "comedian"
+    },
+    {
+      "trait_type": "gps_location",
+      "value": "times_square"
+    },
+    {
+      "trait_type": "intelligence",
+      "value": 7
+    },
+    {
+      "trait_type": "attitude",
+      "value": 5
+    },
+    {
+      "trait_type": "swagger",
+      "value": 4
+    },
+    {
+      "trait_type": "stamina_increase",
+      "display_type": "boost_percentage",
+      "value": 30
+    },
+    {
+      "trait_type": "flight_height",
+      "display_type": "boost_percentage",
+      "value": 50
+    }
+  ],
+  "image": "https://bafybeianxva4u4dwu7xfw24vj7ignacp5k7j5oueip3ioptpdhpc3alnam.ipfs.nftstorage.link/images/images/9.png"
+}

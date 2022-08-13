@@ -1,0 +1,41 @@
+{
+  "name": "#3",
+  "description": "This Sh\\*\\*'s Fire",
+  "attributes": [
+    {
+      "trait_type": "background_color",
+      "value": "#FDBE00"
+    },
+    {
+      "trait_type": "personality",
+      "value": "rockstar"
+    },
+    {
+      "trait_type": "gps_location",
+      "value": "gramercy_hotel"
+    },
+    {
+      "trait_type": "intelligence",
+      "value": 7
+    },
+    {
+      "trait_type": "attitude",
+      "value": 6
+    },
+    {
+      "trait_type": "swagger",
+      "value": 8
+    },
+    {
+      "trait_type": "stamina_increase",
+      "display_type": "boost_percentage",
+      "value": 10
+    },
+    {
+      "trait_type": "flight_height",
+      "display_type": "boost_percentage",
+      "value": 40
+    }
+  ],
+  "image": "https://bafybeianxva4u4dwu7xfw24vj7ignacp5k7j5oueip3ioptpdhpc3alnam.ipfs.nftstorage.link/images/images/3.png"
+}

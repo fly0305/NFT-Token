@@ -1,0 +1,41 @@
+{
+  "name": "#7",
+  "description": "Pizza Rat’s My Ex",
+  "attributes": [
+    {
+      "trait_type": "background_color",
+      "value": "#80FF00"
+    },
+    {
+      "trait_type": "personality",
+      "value": "comedian"
+    },
+    {
+      "trait_type": "gps_location",
+      "value": "comedy_cellar"
+    },
+    {
+      "trait_type": "intelligence",
+      "value": 10
+    },
+    {
+      "trait_type": "attitude",
+      "value": 5
+    },
+    {
+      "trait_type": "swagger",
+      "value": 6
+    },
+    {
+      "trait_type": "stamina_increase",
+      "display_type": "boost_percentage",
+      "value": 10
+    },
+    {
+      "trait_type": "flight_height",
+      "display_type": "boost_percentage",
+      "value": 40
+    }
+  ],
+  "image": "https://bafybeianxva4u4dwu7xfw24vj7ignacp5k7j5oueip3ioptpdhpc3alnam.ipfs.nftstorage.link/images/images/7.png"
+}

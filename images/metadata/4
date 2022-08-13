@@ -1,0 +1,41 @@
+{
+  "name": "#4",
+  "description": "Looking Fly",
+  "attributes": [
+    {
+      "trait_type": "background_color",
+      "value": "#FE9200"
+    },
+    {
+      "trait_type": "personality",
+      "value": "rockstar"
+    },
+    {
+      "trait_type": "gps_location",
+      "value": "apollo_theater"
+    },
+    {
+      "trait_type": "intelligence",
+      "value": 8
+    },
+    {
+      "trait_type": "attitude",
+      "value": 8
+    },
+    {
+      "trait_type": "swagger",
+      "value": 9
+    },
+    {
+      "trait_type": "stamina_increase",
+      "display_type": "boost_percentage",
+      "value": 40
+    },
+    {
+      "trait_type": "flight_height",
+      "display_type": "boost_percentage",
+      "value": 70
+    }
+  ],
+  "image": "https://bafybeianxva4u4dwu7xfw24vj7ignacp5k7j5oueip3ioptpdhpc3alnam.ipfs.nftstorage.link/images/images/4.png"
+}

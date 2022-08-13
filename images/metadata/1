@@ -1,0 +1,25 @@
+{
+  "name": "#1",
+  "description": "Been Caught Stealing",
+  "color": "#99E1C8",
+  "background_color": "#99E1C8",
+  "attributes": [
+    {
+      "trait_type": "ball_colour",
+      "value": "Big Stage Blue"
+    },
+    {
+      "trait_type": "logo_colour",
+      "value": "Metallic Candy Selling Pink"
+    },
+    {
+      "trait_type": "lace_colour",
+      "value": "MVP Gold"
+    },
+    {
+      "trait_type": "rule",
+      "value": "The distance between the goals and the goal posts shall be decided upon by the captains of the sides playing."
+    }
+  ],
+  "image": "https://bafybeianxva4u4dwu7xfw24vj7ignacp5k7j5oueip3ioptpdhpc3alnam.ipfs.nftstorage.link/images/images/1.png"
+}
